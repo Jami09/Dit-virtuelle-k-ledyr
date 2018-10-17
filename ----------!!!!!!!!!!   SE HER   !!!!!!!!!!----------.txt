@@ -1,0 +1,1 @@
+Start med scenen 'Scene2AR', scan pingvin billedet der ligger i 'icon' mappen. Tryk på 'open egg' knappen i den efterfølgende scene.
